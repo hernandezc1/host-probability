@@ -6,7 +6,7 @@ from scipy.special import gamma, gammaincinv, gammainc
 
 def index():
     # define filepaths (this will look different depending on the user)
-    filepath_1 = "/Users/pitt-googlebroker/Documents/host-probability/sweep-000m005-010p000-stellar-mass.fits"
+    #filepath_1 = "/Users/pitt-googlebroker/Documents/host-probability/sweep-000m005-010p000-stellar-mass.fits"
     filepath_2 = "/Users/pitt-googlebroker/Documents/host-probability/sweep-000p000-010p005-stellar-mass.fits.gz"
     filepath_3 = "/Users/pitt-googlebroker/Documents/host-probability/sweep-270p075-280p080-stellar-mass.fits.gz"
     filepath_4 = "/Users/pitt-googlebroker/Documents/host-probability/sweep-270p075-280p080.fits"
